@@ -15,6 +15,8 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll", "~> 3.10.0"
   spec.add_runtime_dependency "jekyll-feed", "~> 0.17.0"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.8.0"
+  spec.add_runtime_dependency "jekyll-sass-converter", "~> 1.5.0"
+  spec.add_runtime_dependency "jekyll-sitemap", "~> 1.4.0"
   spec.add_runtime_dependency "jektex", "~> 0.1.1"
 
   spec.required_ruby_version = '>= 3.3'
