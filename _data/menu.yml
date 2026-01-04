@@ -4,18 +4,8 @@
 entries:
   - title: (about-me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: (around-here
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about.html
+      - title: Do Nothing!
+      - title: "<a href='https://www.linkedin.com/in/guofengwang/'>linkedin</a> / <a href='https://github.com/zionfuo'>github</a>"
 
   - title: (recent-writing
     post_list:
