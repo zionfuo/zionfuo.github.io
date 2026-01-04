@@ -5,7 +5,7 @@ entries:
   - title: (about-me
     entries:
       - title: Do Nothing!
-      - title: "<a href='https://www.linkedin.com/in/guofengwang/'>linkedin</a> / <a href='https://github.com/zionfuo'>github</a>"
+      - title: "<a href='https://www.linkedin.com/in/guofengwang/' target='_blank'>linkedin</a> / <a href='https://github.com/zionfuo' target='_blank'>github</a>"
 
   - title: (recent-writing
     post_list:
